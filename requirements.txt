@@ -1,0 +1,5 @@
+pymongo
+openai
+plotly
+scipy
+sklearn
